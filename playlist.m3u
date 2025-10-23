@@ -24,6 +24,8 @@ https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv
 #EXTINF:-1 tvg-id="kai" tvg-name="kai" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",kai nba
 https://pull01.yyzb456.top/live/stream-233418_lhd.flv?auth_key=1761188204-0-0-3e9da152441706fdaea00598244d50f9
+#EXTINF:-1 tvg-id="kong" tvg-name="kong" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",nba
+https://pull01.yyzb456.top/live/stream-516701_lhd.flv?auth_key=1761189044-0-0-0f24552b9dd566f4704836fc3d4b0c01
 
 #EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",AJE
 https://live-hls-apps-aje-fa.getaj.net/alternative/AJE/04.m3u8

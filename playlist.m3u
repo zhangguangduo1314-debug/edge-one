@@ -16,10 +16,11 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Shin
 https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1763306050-0-0-99fa9bec4a57d2c2c0ec92ff4e4603be
+https://pullsgp.yyzb456.top/live/stream-698168_lhd…y=1775997654-0-0-53ffa7bd003833a042ac092230cda005
 #EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Beck
 https://pullsgp.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1763305990-0-0-7d4d541710d5ac8b9f50437825787d6b
 #EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Deer
-https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-a1bd601b5b86962710552fe7321a78ff
+https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1775987954-0-0-887ede1c61c22204ded1a90915efb55d
 #EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="Sport",DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="Sport",DAZN体育2
@@ -32,11 +33,10 @@ https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv
 #EXTINF:-1 tvg-id="kai" tvg-name="kai" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",kai nba
 https://pull01.yyzb456.top/live/stream-233418_lhd.flv?auth_key=1761188204-0-0-3e9da152441706fdaea00598244d50f9
-#EXTINF:-1 tvg-id="kong" tvg-name="kong" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",nba
-https://pullsgp.yyzb456.top/live/stream-516701_lhd.m3u8?auth_key=1763178971-0-0-bcfd3dd372f5e26bc56f30764422493e
+#EXTINF:-1 tvg-id="kong" tvg-name="kong" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",kong
+https://pullsgp.yyzb456.top/live/stream-516701_lhd.m3u8?auth_key=1775988563-0-0-037b90982de40887657a7687c705ba07
 #EXTINF:-1 tvg-id="sheng" tvg-name="sheng" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",sheng
-https://pullsgp.yyzb456.top/live/stream-330076_lhd.m3u8?auth_key=1763160465-0-0-7977d38284280ca30adeb60e42bcf2bb
-
+https://pullsgp.yyzb456.top/live/stream-330076_lhd.m3u8?auth_key=1775996994-0-0-d472caaa17ab922f0d75cdf2b5d9834d
 #EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",AJE
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="TRT" tvg-name="TRT" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",TRT
